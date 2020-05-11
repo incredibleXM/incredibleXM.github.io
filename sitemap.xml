@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://incrediblexm.github.io/categories/</loc>
+    <lastmod>2020-05-11T23:07:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://incrediblexm.github.io/posts/megvii-techpre/</loc>
+    <lastmod>2020-05-11T23:07:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://incrediblexm.github.io/tags/gpu/</loc>
+    <lastmod>2020-05-11T23:07:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://incrediblexm.github.io/categories/hardware/</loc>
+    <lastmod>2020-05-11T23:07:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://incrediblexm.github.io/categories/hpc/</loc>
+    <lastmod>2020-05-11T23:07:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://incrediblexm.github.io/posts/</loc>
+    <lastmod>2020-05-11T23:07:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://incrediblexm.github.io/tags/presentation/</loc>
+    <lastmod>2020-05-11T23:07:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://incrediblexm.github.io/tags/</loc>
+    <lastmod>2020-05-11T23:07:55+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://incrediblexm.github.io/tags/about/</loc>
     <lastmod>2020-05-11T14:59:11+08:00</lastmod>
   </url>
@@ -15,15 +55,6 @@
   <url>
     <loc>https://incrediblexm.github.io/</loc>
     <lastmod>2020-05-11T14:59:11+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://incrediblexm.github.io/tags/</loc>
-    <lastmod>2020-05-11T14:59:11+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://incrediblexm.github.io/categories/</loc>
   </url>
   
 </urlset>
